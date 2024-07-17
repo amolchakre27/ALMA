@@ -31,7 +31,7 @@ Explore the live demo: [AM Movies Live Demo](https://abosonic.com/)
 To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/amolchakre27/ALMA.git`
-2. Navigate to the project directory: `cd am-movies`
+2. Navigate to the project directory: `cd your-directory`
 3. Install dependencies:
    - Frontend (React/Vue.js): `npm install`
    - Backend (Laravel): Refer to Laravel documentation for installation instructions.
